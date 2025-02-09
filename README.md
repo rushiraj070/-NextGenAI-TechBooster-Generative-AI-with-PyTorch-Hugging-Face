@@ -1,4 +1,4 @@
-# -NextGenAI-TechBooster-Generative-AI-with-PyTorch-Hugging-Face
+# NextGenAI-TechBooster-Generative-AI-with-PyTorch-Hugging-Face
 
 ### 📌 **Repository: NextGenAI-TechBooster-PyTorch-HF**  
 
